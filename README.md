@@ -29,4 +29,10 @@ Each writeup includes tools used, methodology and key learnings.
 
 ---
 
+## 🏆 Certifications
+
+| Certification | Issuer | Date |
+|---|---|---|
+| Introduction to Cybersecurity | Cisco | 2025 |
+
 *This repository is continuously updated as I progress in my cybersecurity learning path.*
