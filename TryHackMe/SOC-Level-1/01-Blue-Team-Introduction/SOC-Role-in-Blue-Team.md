@@ -20,6 +20,3 @@ a la seguridad defensiva.
 - El SOC es el centro de operaciones de seguridad defensiva
 - Cada rol tiene responsabilidades específicas según el tipo de incidente
 - El L1 escala al L2 cuando el incidente requiere análisis más profundo
-
-## Notas personales
-...
